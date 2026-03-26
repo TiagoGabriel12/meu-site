@@ -9,13 +9,13 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #e8f4f8;
-  color: #000000;
+  color: #f7f4f4;
   padding: 2rem;
 }
 
 header {
   background-color: #0202a3;
-  color: rgb(0, 0, 0), 240);
+  color: rgb(240, 240, 240), 240);
   padding: 2rem;
   border-radius: 8px;
   margin-bottom: 1.5rem;
@@ -27,7 +27,7 @@ h1 {
 }
 
 main {
-  background-color: white;
+  background-color: rgb(2, 2, 2);
   padding: 1.5rem;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
